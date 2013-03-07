@@ -17,7 +17,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	//gxf hjhhjDo any additional setup after loading the view, typically from a nib.
+	//gxf hjhhjDo yes any additional setup after loading the view, typically from a nib.
 }
 
 - (void)didReceiveMemoryWarning
