@@ -68,7 +68,7 @@
                                     <constraint firstAttribute="width" constant="297" id="F6J-XU-KBh"/>
                                     <constraint firstAttribute="height" constant="86" id="oeP-4U-Caj"/>
                                 </constraints>
-                                <string key="text">Loaded by the Second View Controller — an instance of SQLBISecondViewController — specified in the app delegate. Ha ha. This is awesome. Automated Build</string>
+                                <string key="text">Loaded by the Second View Controller — an instance of SQLBISecondViewController — specified in the app delegate. Ha ha. This is awesome. Automated Build. ok</string>
                                 <fontDescription key="fontDescription" type="system" size="system"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textView>
