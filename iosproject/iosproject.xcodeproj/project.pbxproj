@@ -472,6 +472,7 @@
 				7011BED316E57F5600B5662F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7011BED416E57F5600B5662F /* Build configuration list for PBXNativeTarget "iosprojectTests" */ = {
 			isa = XCConfigurationList;
@@ -480,6 +481,7 @@
 				7011BED616E57F5600B5662F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
